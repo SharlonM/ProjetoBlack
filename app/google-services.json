@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "706736076570",
+    "firebase_url": "https://projetosoftware-d2f05.firebaseio.com",
+    "project_id": "projetosoftware-d2f05",
+    "storage_bucket": "projetosoftware-d2f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706736076570:android:648d433daed93f33",
+        "android_client_info": {
+          "package_name": "com.sharlon.projetoblack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706736076570-7efuq6iqt1e3piufivvasul0buu9ic5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharlon.projetoblack",
+            "certificate_hash": "6e3bd0fec4254dab109f9f9d6c1c336224862a94"
+          }
+        },
+        {
+          "client_id": "706736076570-2mgd9rj3cf7nog190unjdmg5reuahj6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharlon.projetoblack",
+            "certificate_hash": "c2cb13b74fe20cba06ab4c8873e04920ce07def9"
+          }
+        },
+        {
+          "client_id": "706736076570-1505hjme8go60emiffn5lftolboi7q91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharlon.projetoblack",
+            "certificate_hash": "b4f5839f9f4f702800e320d44760daa09db4a4ef"
+          }
+        },
+        {
+          "client_id": "706736076570-v0c07n0bsqehqvojti67mkkm702as5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhW3czJq1LJQZKtZWU4qEfXxjRn1BE4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706736076570-v0c07n0bsqehqvojti67mkkm702as5e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706736076570:android:656251f3ac27a3af",
+        "android_client_info": {
+          "package_name": "com.sharlon.projetosoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706736076570-nprkmu9huc0cd5dqp2odmrdhbdkp311g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharlon.projetosoftware",
+            "certificate_hash": "6e3bd0fec4254dab109f9f9d6c1c336224862a94"
+          }
+        },
+        {
+          "client_id": "706736076570-nqpal0cb0of8e6tloroscm2gbkri55i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharlon.projetosoftware",
+            "certificate_hash": "c2cb13b74fe20cba06ab4c8873e04920ce07def9"
+          }
+        },
+        {
+          "client_id": "706736076570-o37idmqu562boh43nd4agh7mmmo5avje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharlon.projetosoftware",
+            "certificate_hash": "b4f5839f9f4f702800e320d44760daa09db4a4ef"
+          }
+        },
+        {
+          "client_id": "706736076570-v0c07n0bsqehqvojti67mkkm702as5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhW3czJq1LJQZKtZWU4qEfXxjRn1BE4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706736076570-v0c07n0bsqehqvojti67mkkm702as5e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

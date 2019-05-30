@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Projeto v2.0</string>
+    <string name="Image_Logo">img_logo</string>
+    <string name="Image_Login">img_login</string>
+    <string name="Image_Info">img_info</string>
+    <string name="Image_Localizacao">img_localizacao</string>
+    <string name="Image_Feedback">img_feedback</string>
+    <string name="txt_PUsuario">Painel do Usuario</string>
+    <string name="txt_Informacoes">Informaçoes</string>
+    <string name="txt_Localizacao">Localizaçao</string>
+    <string name="txt_feedback">FeedBack</string>
+    <string name="txt_Frase">Aqui vai a frase logo da empresa</string>
+    <string name="txt_Banner">Painel de Login</string>
+    <string name="txt_email">Email:</string>
+    <string name="txt_senha">Senha:</string>
+    <string name="checkbox_senha">Mostrar Senha</string>
+    <string name="txt_ou">ou faça o login com:</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="txt_formulario">Formulario\nde\nFeedback</string>
+    <string name="txt_fraseDeExplicacao">Para nos enviar o feedback porfavor preencha os campos abaixo corretamente</string>
+    <string name="txt_nome">Nome:</string>
+    <string name="txt_descricaoFeed">Titulo:</string>
+    <string name="txt_descricao">Descriçao:</string>
+    <string name="txt_enviar">Enviar</string>
+    <string-array name="arrayOpcoes">
+        <item>Bug</item>
+        <item>Travamento</item>
+        <item>Duvida</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Usuario:</string>
+    <string name="nav_header_subtitle">nome do usuario</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logouf</string>
+
+    <string name="menu_addTreino">Registrar Treino</string>
+    <string name="menu_addFalta">Registrar Falta</string>
+    <string name="menu_historico">Historico</string>
+    <string name="menu_historicoDelete">Excluir Historico</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_home">Home</string>
+</resources>
