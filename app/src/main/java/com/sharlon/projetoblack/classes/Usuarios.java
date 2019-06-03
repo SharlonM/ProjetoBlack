@@ -4,11 +4,10 @@ import android.content.Context;
 import android.widget.Toast;
 
 public class Usuarios {
-    private String nome,email,id,historico;
+    private String email, id;
 
     public Usuarios() {
     }
-
 
     public String getEmail() {
         return email;
