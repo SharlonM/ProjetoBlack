@@ -33,7 +33,7 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
                 android:text="Data: "
                 android:textColor="@color/colorAccent"
                 android:textSize="18sp" />
@@ -41,7 +41,7 @@
             <com.vicmikhailau.maskededittext.MaskedEditText
                 android:id="@+id/edtData"
                 android:layout_width="wrap_content"
-                android:layout_height="40dp"
+                android:layout_height="wrap_content"
                 android:layout_marginStart="60dp"
                 android:layout_marginTop="-40dp"
                 android:hint="Ex: 24/12/2000"
@@ -53,6 +53,26 @@
                 android:textSize="20sp"
                 app:mask="##/##/####" />
 
+            <TextView
+                android:id="@+id/txtDefinidos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:text="Treinos predefinidos"
+                android:textColor="@color/colorAccent"
+                android:textSize="20sp" />
+
+            <Spinner
+                android:id="@+id/treinosPredefinidos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#00F50606"
+                android:spinnerMode="dropdown" />
+
         </LinearLayout>
     </ScrollView>
+
 </android.support.constraint.ConstraintLayout>

@@ -27,6 +27,11 @@
         <item>Travamento</item>
         <item>Duvida</item>
     </string-array>
+    <string-array name="treinosPredefinidos">
+        <item>treino/treino/treino</item>
+        <item>Travamento</item>
+        <item>Duvida</item>
+    </string-array>
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_user">UserActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>

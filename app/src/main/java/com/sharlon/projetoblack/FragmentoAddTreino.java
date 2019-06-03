@@ -7,6 +7,8 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 
 import com.vicmikhailau.maskededittext.MaskedEditText;
 
@@ -40,7 +42,11 @@ public class FragmentoAddTreino extends Fragment {
         Date date = new Date();
         edtData.setText(formatData.format(date));
 
+        Spinner treinosPredefinidos = view.findViewById(R.id.treinosPredefinidos);
+        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(view.getContext(),
+                R.array.treinosPredefinidos, android.R.layout.simple_spinner_dropdown_item);
 
+        treinosPredefinidos.setAdapter(adapter);
 
         return view;
     }
