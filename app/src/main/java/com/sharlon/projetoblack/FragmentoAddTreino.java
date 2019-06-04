@@ -44,8 +44,8 @@ public class FragmentoAddTreino extends Fragment {
 
         Spinner treinosPredefinidos = view.findViewById(R.id.treinosPredefinidos);
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(view.getContext(),
-                R.array.treinosPredefinidos, android.R.layout.simple_spinner_dropdown_item);
-
+                R.array.treinosPredefinidos, R.layout.spinner_item);
+        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         treinosPredefinidos.setAdapter(adapter);
 
         return view;
